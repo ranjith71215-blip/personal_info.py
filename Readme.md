@@ -22,7 +22,7 @@ python personal_info.py
 ## Sample Output
 
 ```text
-Name           : Ranjith Kumar
+Name           : Ranjith Kumar G
 Age            : 20
 Age in Months  : 240
 City           : Bangalore
@@ -45,4 +45,4 @@ Favorite Color : Blue
 - Basic Calculations
 
 ## Author
-Ranjith Kumar
+Ranjith Kumar G
