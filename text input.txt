@@ -1,0 +1,64 @@
+TEST CASES
+
+Test Case 1: Valid Input
+Input:
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Expected Output:
+Program accepts the input and displays all personal information correctly.
+
+Result:
+Passed
+
+--------------------------------------------------
+
+Test Case 2: Empty Favorite Food
+Input:
+Favorite Food: (Press Enter)
+
+Expected Output:
+Favorite food cannot be empty. Please try again.
+
+Result:
+Passed
+
+--------------------------------------------------
+
+Test Case 3: Empty Favorite Color
+Input:
+Favorite Color: (Press Enter)
+
+Expected Output:
+Favorite color cannot be empty. Please try again.
+
+Result:
+Passed
+
+--------------------------------------------------
+
+Test Case 4: Input with Extra Spaces
+Input:
+Favorite Food:   pizza
+Favorite Color:   blue
+
+Expected Output:
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Result:
+Passed
+
+--------------------------------------------------
+
+Test Case 5: Lowercase Input
+Input:
+Favorite Food: burger
+Favorite Color: green
+
+Expected Output:
+Favorite Food: Burger
+Favorite Color: Green
+
+Result:
+Passed
